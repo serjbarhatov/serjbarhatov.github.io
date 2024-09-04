@@ -97,3 +97,8 @@ footer {
 .opacity-overlay {
   background: rgba(0, 0, 0, 0.7);
 }
+
+.footer-copyright {
+  float: left;
+  margin-left: 15px;
+}

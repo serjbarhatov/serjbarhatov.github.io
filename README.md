@@ -2,9 +2,9 @@
 
 # TODO
 
-1. Add open page in new tab feature +
-1. Add image or video to profile page -
-1. Add 3 blog posts and summary
+1. Add content to blogs
+1. Add content to FAQ
+
 
 ## Low priority
 

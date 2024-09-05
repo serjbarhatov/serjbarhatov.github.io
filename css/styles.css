@@ -1,7 +1,6 @@
 body {
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
-  
   font-style: normal;
   background-color: #000000;
   color: #efebe5;
@@ -112,15 +111,17 @@ footer {
 }
 
 .blog-post-date {
-  color:rgb(142, 142, 142);
+  color: rgb(142, 142, 142);
 }
 
 table {
   margin-top: 20px;
 }
 
-table, th, td {
-  border: 1px solid;
+table,
+th,
+td {
+  border: 0px solid;
 }
 
 #exams-table {
@@ -129,17 +130,35 @@ table, th, td {
   width: 100%;
 }
 
-#exams-table td, #exams-table th {
-  border: 1px solid #e5ded4;
+#exams-table td,
+#exams-table th {
+  border: 0px solid #e5ded4;
   padding: 8px;
 }
 
-#exams-table tr:hover {background-color: #535C91;}
+#exams-table tr:hover {
+  background-color: #535C91;
+}
 
 #exams-table th {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
   background-color: #1B1A55;
   color: #efebe5;
+}
+
+.w3-my-blue,
+.w3-hover-blue:hover {
+  color: #fff !important;
+  background-color: #535C91 !important;
+  padding-top: 3px !important;
+  height: 30px;
+}
+
+.w3-my-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover {
+  color:#000!important;background-color:#c8c8c8!important
 }

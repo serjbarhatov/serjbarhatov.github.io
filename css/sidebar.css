@@ -4,11 +4,11 @@
   
   #wrapper {
       padding-left: 200px;
-      transition: all 1s;
+      transition: all 2s;
   }
   
   #menu_active:checked + #wrapper {
-      padding-left: 44px;
+      padding-left: 40px;
       transition: all 1s;
   }
   

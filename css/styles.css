@@ -193,3 +193,8 @@ td {
 .read-more:hover {
   text-decoration: underline;
 }
+
+article {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}

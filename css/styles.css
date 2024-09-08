@@ -172,6 +172,24 @@ td {
   height: 30px;
 }
 
-.w3-my-light-grey,.w3-hover-light-grey:hover,.w3-light-gray,.w3-hover-light-gray:hover {
-  color:#000!important;background-color:#c8c8c8!important
+.w3-my-light-grey,
+.w3-hover-light-grey:hover,
+.w3-light-gray,
+.w3-hover-light-gray:hover {
+  color: #000 !important;
+  background-color: #c8c8c8 !important
+}
+
+.read-more {
+  color: #9290C3;
+  text-decoration: none;
+}
+
+.read-more:visited {
+  color: #9290C3;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
 }

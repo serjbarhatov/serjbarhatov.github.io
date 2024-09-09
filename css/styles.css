@@ -138,7 +138,7 @@ td {
 }
 
 #exams-table {
-  font-family: Helvetica, sans-serif;
+  font-family: 'SF Pro Display', 'Courier New', Courier, monospace;
   border-collapse: collapse;
   width: 100%;
 }
@@ -195,6 +195,6 @@ td {
 }
 
 article {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: large;
+  font-family: 'SF Pro Display', 'Courier New', Courier, monospace;
+  font-size: x-large;
 }

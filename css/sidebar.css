@@ -87,3 +87,8 @@
       display: block;
       height: 40px;
   }
+
+
+  .selected-sidebar-item {
+    color: #9290C3 !important;
+  }

@@ -198,3 +198,18 @@ article {
   font-family: 'SF Pro Display', 'Courier New', Courier, monospace;
   font-size: x-large;
 }
+
+.faq-answer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: larger;
+}
+
+.faq-external-link {
+  color: #9290C3;
+  text-decoration: none;
+ }
+
+ .faq-external-link:hover {
+  text-decoration: underline;
+ }

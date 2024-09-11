@@ -3,6 +3,7 @@
 # TODO
 1. Design and print A3 poster of the frontend
 1. Print 4 evaluation forms https://learn.hz.nl/pluginfile.php/581934/mod_resource/content/2/21-22_Evaluation%20form%20Pitch.pdf
+1. Add hz logo to one page
 
 
 

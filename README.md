@@ -9,7 +9,6 @@
 
 
 ## Low priority
-1. Edit the content on faq page
 1. Validate all html and css files
 1. Mark selections sidebar on blog pages
 1. Make comments (in code) to the table rows (courses)

@@ -249,11 +249,15 @@ article {
 }
 
 .index-curious-list li {
-
   padding: 10px;
   margin: 7px 0;
   border-radius: 5px;
   font-family: 'SF Pro Display' ;
   font-size: large;
   text-align: center;
+}
+
+.hz-logo {
+  float: right;
+  width: 20%;
 }
